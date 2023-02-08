@@ -6,5 +6,5 @@ build/
 /dist/
 /.idea
 /docs/_build/
-/node_modules/
+# /node_modules/
 /db
